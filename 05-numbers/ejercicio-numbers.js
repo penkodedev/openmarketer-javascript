@@ -5,8 +5,6 @@ let peso = 78.1;
 let alturaMetrosArriba = Math.ceil(alturaMetros * 10) / 10;
 let pesoBajo = Math.floor(peso - 0.1) / 10;
 
-
-
 console.log(alturaMetrosArriba);
 console.log(pesoBajo);
 
